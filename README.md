@@ -18,10 +18,10 @@ Conclusion: Summary of findings and comparison of model performance.
 ## Dependencies
 The notebook requires the following Python libraries:
 
-numpy
-matplotlib
-pandas
-nltk
-scikit-learn
+numpy,
+matplotlib,
+pandas,
+nltk,
+scikit-learn,
 
 
