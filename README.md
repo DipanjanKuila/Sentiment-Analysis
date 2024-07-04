@@ -6,14 +6,36 @@ Welcome to the Text Analysis and Sentiment Model Training repository! This proje
 - [Dependencies](#dependencies)
 
 ## Notebook Structure
-The notebook is structured as follows:
--Data Loading and Preprocessing: Steps to load and preprocess the dataset.
--Text Cleaning: Removing unwanted characters, converting text to lowercase, and stemming.
--Feature Extraction (Bag of Words): Converting text data into numerical features.
--Dataset Splitting: Dividing the dataset into training and testing sets.
--Model Training: Training Naive Bayes and Kernel SVM models.
--Model Evaluation: Evaluating model performance using confusion matrix and accuracy score.
--Conclusion: Summary of findings and comparison of model performance.
+
+### Introduction
+An overview of the problem and the main objectives of the project.
+
+### Data Loading and Preprocessing
+Detailed steps to load the dataset and preprocess it for analysis.
+
+### Text Cleaning
+- Removing unwanted characters
+- Converting text to lowercase
+- Applying stemming techniques
+
+### Feature Extraction (Bag of Words)
+Converting textual data into numerical features using the Bag of Words model.
+
+### Dataset Splitting
+Dividing the dataset into training and testing sets to evaluate the model.
+
+### Model Training
+Training different machine learning models:
+- Naive Bayes
+- Kernel SVM
+
+### Model Evaluation
+Assessing the model performance using:
+- Confusion matrix
+- Accuracy score
+
+### Conclusion
+A summary of the findings and a comparison of the performance of the models.
 
 ## Dependencies
 The notebook requires the following Python libraries:
